@@ -13,30 +13,4 @@ Features
         
 ✅  Supports both limited and unlimited robbery runs.
 
-Requirements
 
-⚠️ Python.
-
-⚠️ Playwright.
-
-⚠️ An active The Crims account.
-
-⚠️ A visible browser window, since the bot runs with a graphical interface enabled.
-
-
-How It Works
-
-After launching, the script opens The Crims in a Chromium browser window. The user logs in manually and navigates to the robbery section, then starts the bot from the terminal. The bot continuously checks stamina and addiction levels, decides whether to rob, refill stamina, or go to detox, and stops after reaching the selected robbery limit if one was set.
-Usage
-
-✅ Install the required dependencies.
-
-✅ Run the script.
-
-✅ Log in to The Crims manually.
-
-✅ Open the robbery tab.
-
-✅ Press Enter in the terminal.
-
-✅ Let the bot handle the rest.
